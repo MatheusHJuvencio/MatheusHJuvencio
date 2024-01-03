@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Data Science** and **Data Analyses**
 - 🌱 I’m currently learning **Python**, **SQL**, **Docker**, **Data Engineering** e.g **Microsoft Azure**, **Apache Airflow** and **Snowflake**
 - 💪🏾 I’m looking to collaborate on projects about **Data Science** and **Data Engineering**
-- 📫 How to reach me: <matheusjuvencio.contact@gmail.com> and <[https://www.linkedin.com/in/matheus-henrique-juvencio](https://www.linkedin.com/in/juvencio-matheus/)>
+- 📫 How to reach me: <matheusjuvencio.contact@gmail.com> and <(https://www.linkedin.com/in/juvencio-matheus/)>
 
 <div align="center">
   <a href="https://github.com/MatheusHJuvencio">
